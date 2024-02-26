@@ -26,7 +26,7 @@ The goal of this project is to design a software intending to conserve electrici
 1) Clone the project
 
 ```bash
-git clone https://github.com/Chandravo/CNN-based-human-detection-to-save-electricity
+git clone https://github.com/Samarjeet09/wattsaver
 ```
 
 2) Download YOLOv3 config and weights folder from [here](https://moderncomputervision.s3.eu-west-2.amazonaws.com/YOLO.zip).
